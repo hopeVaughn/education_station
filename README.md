@@ -7,11 +7,13 @@ A basic learning path and simple examples for different coding and full stack we
 1. [HTML](#html)
 2. [CSS](#css)
 3. [JavaScript](#javascript)
-4. [Frontend Frameworks](#frontend-frameworks)
-5. [Backend Technologies](#backend-technologies)
-6. [Databases](#databases)
-7. [Deployment](#deployment)
-8. [Additional Resources](#additional-resources)
+4. [PHP](#php)
+5. [Python](#python)
+6. [Frontend Frameworks](#frontend-frameworks)
+7. [Backend Technologies](#backend-technologies)
+8. [Databases](#databases)
+9. [Deployment](#deployment)
+10. [Additional Resources](#additional-resources)
 
 ## HTML
 
@@ -31,23 +33,29 @@ A guide to CSS, including syntax, selectors, and styling techniques.
 
 Essential JavaScript concepts, including variables, functions, and events.
 
-## Typescript
+## PHP
 
-[Typescript Examples](./Typescript)
+[PHP Examples](./PHP)
 
-A guide to Typescript concepts, including syntax, types, and interfaces.
+An introduction to PHP, covering basic syntax, variables, and control structures.
+
+## Python
+
+[Python Examples](./Python)
+
+A primer on Python, focusing on its syntax, data structures, and functions.
 
 ## Frontend Frameworks
 
 [Frontend Frameworks Examples](./Frontend-Frameworks)
 
-An overview of popular frontend frameworks, such as React, Angular, and Vue.
+An overview of popular frontend frameworks, such as React, Solid.js, Next.js.
 
 ## Backend Technologies
 
 [Backend Technologies Examples](./Backend-Technologies)
 
-A look at backend technologies like Node.js, Express, and Python's Flask.
+A look at backend technologies like Node.js, Express, and Python's Flask/Django.
 
 ## Databases
 
